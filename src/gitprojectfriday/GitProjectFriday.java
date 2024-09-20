@@ -19,6 +19,7 @@ public class GitProjectFriday {
     //First change
     //changed on remote
     //showing fetch
+    //created a branch demo
     public static void main(String[] args) {
         // TODO code application logic here
     }
